@@ -26,8 +26,6 @@ Pin 7 (Select) -> GPIO 14 </br>
 Pin 8 (GND) -> GND of the Raspberry Pi Pico
 Pin 9 (Button A / Start) -> GPIO 12 </br>
 
-# Libraries and tools used
-
 # What is CircuitPython?
 CircuitPython is a simplified version of Python, designed to make programming microcontrollers easier. Developed by Adafruit, it is aimed at beginners and allows them to create electronic projects easily, with a focus on education and accessibility.
 https://circuitpython.org </br>
