@@ -49,7 +49,7 @@ adafruit_hid </br>
 
 ### Dependencies
 
-The `adafruit_hid` library is not included natively in CircuitPython. Therefore, you will need to add it manually to the `lib` folder on the CircuitPython virtual disk.
+The "adafruit_hid" library is not included natively in CircuitPython. Therefore, you will need to add it manually to the "lib" folder on the CircuitPython virtual disk.
 
 ### Installation
 
@@ -57,7 +57,7 @@ The `adafruit_hid` library is not included natively in CircuitPython. Therefore,
    [Download library](https://github.com/adafruit/Adafruit_CircuitPython_HID/releases/tag/6.1.1).  
    In this project, I'm using the file `“adafruit-circuitpython-hid-9.x-mpy-6.1.1.zip”`.
 
-2. Extract the contents of the zip file and copy the `adafruit_hid` folder to the `lib` directory on the CircuitPython virtual disk.
+2. Extract the contents of the zip file and copy the "adafruit_hid" folder to the "lib" directory on the CircuitPython virtual disk.
 
 ### Useful links
 
