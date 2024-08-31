@@ -27,25 +27,24 @@ Pin 8 (GND) -> GND of the Raspberry Pi Pico
 Pin 9 (Button A / Start) -> GPIO 12 </br>
 
 # What is CircuitPython?
-CircuitPython is a simplified version of Python, designed to make programming microcontrollers easier. Developed by Adafruit, it is aimed at beginners and allows them to create electronic projects easily, with a focus on education and accessibility.
+CircuitPython is a simplified version of Python, designed to make programming microcontrollers easier. Developed by Adafruit, it is aimed at beginners and allows them to create electronic projects easily, with a focus on education and accessibility. </br>
 https://circuitpython.org </br>
 
 Download CircuitPython for Pi Pico </br>
 https://circuitpython.org/board/raspberry_pi_pico/
 
-Learn more about Circuitpython with the official documentation
+Learn more about Circuitpython with the official documentation </br>
 https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython
 </br>
 
 You can use the code editor of your choice and then simply save the file to the CircuitPython virtual disk so that it works automatically.
 
 # Used libraries
-board
-digitalio
-time
-usb_hid
-adafruit_hid
-
+board </br>
+digitalio </br>
+time </br>
+usb_hid </br>
+adafruit_hid </br>
 </br>
 
 ### Dependencies
@@ -67,16 +66,16 @@ The `adafruit_hid` library is not included natively in CircuitPython. Therefore,
 # Materials used in the project
 - Raspberry pi pico development board with soldered pins
 - Sega Mega Drive (Genesis) controller
-- Db9 Male Connector With Terminal Block
+- Db9 Female Connector With Terminal Block
 - Jumper Cable 20Cm Male X Female
 </br>
 
-![Alt text](/img/pipico.png?raw=true "Sega Genesis 6 buttons")
+![Alt text](/img/pipico.png?raw=true "Raspberry Pi Pico")
 
 ![Alt text](/img/genesis6pad.png?raw=true "Sega Genesis 6 buttons")
 
-![Alt text](/img/db9femaleconnector.png?raw=true "Sega Genesis 6 buttons")
+![Alt text](/img/db9femaleconnector.png?raw=true "DB9 female connector")
 
-![Alt text](/img/pipicopins.png?raw=true "Sega Genesis 6 buttons")
+![Alt text](/img/pipicopins.png?raw=true "Raspberry Pi Pico Diagram")
 
 </br>
